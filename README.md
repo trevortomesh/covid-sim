@@ -1,5 +1,7 @@
 # COVID-19 CovidSim Model
 
+# I LIKE EGGS!!!!
+
 This is the COVID-19 CovidSim microsimulation model developed by the MRC Centre
 for Global Infectious Disease Analysis hosted at Imperial College, London.
 
